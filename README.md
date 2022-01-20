@@ -47,5 +47,5 @@ Your are welcomed with an homepage. Click on get started to create an account or
 
 ![Screen Shot 2022-01-19 at 11 47 00 PM](https://user-images.githubusercontent.com/70780442/150275317-5c41cac3-81a4-4672-bb6c-741264996e92.jpg)
 
-### Step 7: Once your done, don't forget to logout in the top right hand corner!!
+### Step 7: Once you're done, don't forget to logout in the top right hand corner!!
 
