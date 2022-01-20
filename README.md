@@ -13,7 +13,8 @@ https://ratantej.pythonanywhere.com/
 - It is entirely run on cloud using AWS S3, and AWS RDS
 - Access Control (User login, and sessions)
 - With this image repository a user can upload, store, and view images. 
-- Users can upload multiple images at once
+- Users can upload multiple images at once.
+- The User can also delete images
 - The app boasts a public image library and private one. The user decideds at the time of upload if they want their upload to be visible to all users or just them. 
 - All user account passowrds are encrypted and hashed using Werkzeug
 - Used Flask-login to authenticate, manage and create user sessions 
