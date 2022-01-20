@@ -24,4 +24,5 @@ https://ratantej.pythonanywhere.com/
 
 Your are welcomed with an homepage. Click on get started to create an account or click on sign up in the top right corner.
 
-![homepage](https://drive.google.com/file/d/1fkV0ClJcl-7C4ncXKWsV_Y-lyRsM66G9/view?usp=sharing)
+<img width="1851" alt="Screen Shot 2022-01-19 at 11 13 32 PM" src="https://user-images.githubusercontent.com/70780442/150272658-106633ff-d3e2-45c4-90d2-4b896da96201.png">
+
