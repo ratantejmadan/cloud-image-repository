@@ -26,3 +26,9 @@ Your are welcomed with an homepage. Click on get started to create an account or
 
 <img width="1851" alt="Screen Shot 2022-01-19 at 11 13 32 PM" src="https://user-images.githubusercontent.com/70780442/150272658-106633ff-d3e2-45c4-90d2-4b896da96201.png">
 
+### Step 2: Create a new user account with an email, username, and set a password. And then Log in! 
+
+<img width="1851" alt="Screen Shot 2022-01-19 at 11 21 28 PM" src="https://user-images.githubusercontent.com/70780442/150272868-3983baaa-cc96-4efb-bbe4-d529b589b5ff.png">
+
+
+
