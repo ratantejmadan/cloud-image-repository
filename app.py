@@ -7,9 +7,9 @@ from werkzeug.security import generate_password_hash, check_password_hash
 from flask_login import UserMixin, LoginManager, login_user, login_required, \
     current_user, logout_user
 
-access_key = "AKIA2KSSUTDZ5CQBHGWK"
-secret = "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"
-aws_bucket = "all-images"
+access_key = "AWS ACCESS KEY GOES HERE"
+secret = "AWS SECRET GOES HERE"
+aws_bucket = "AWS BUCKET NAME GOES HERE"
 
 app = Flask(__name__)
 
