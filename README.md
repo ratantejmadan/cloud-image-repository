@@ -7,3 +7,6 @@ Since the code requires AWS secret keys (which I can't publish on git for securi
 https://ratantej.pythonanywhere.com/ 
 
 
+# Key Fetaures
+
+- The app is developed on Python and Flask
