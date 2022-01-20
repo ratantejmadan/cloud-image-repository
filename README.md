@@ -19,4 +19,4 @@ https://ratantej.pythonanywhere.com/
 
 # How to use the App
 
-## Step 1: Go to https://ratantej.pythonanywhere.com/  - This is where the app is hosted. 
+### Step 1: Go to https://ratantej.pythonanywhere.com/  - This is where the app is hosted. 
