@@ -49,3 +49,12 @@ Your are welcomed with an homepage. Click on get started to create an account or
 
 ### Step 7: Once you're done, don't forget to logout in the top right hand corner!!
 
+# Backend (AWS S3 and RDS)
+
+On the back end, I'm using S3 and RDS to support this entire app. The S3 has a bucket that holds all the images. And RDS has a Postgres SQL databse that hold all the user data such as login crdentials and data related to what images belong to that user. 
+
+<img width="1802" alt="Screen Shot 2022-01-19 at 11 52 25 PM" src="https://user-images.githubusercontent.com/70780442/150275729-74861073-8db2-4db2-8bcf-eaa0d4338aa1.png">
+
+<img width="1802" alt="Screen Shot 2022-01-19 at 11 53 39 PM" src="https://user-images.githubusercontent.com/70780442/150275839-ac05a10e-9645-4698-962d-5fb4a1077ebc.png">
+
+
